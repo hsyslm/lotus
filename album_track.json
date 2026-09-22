@@ -1,5 +1,5 @@
 {
-    "version": "2026.0920",
+    "version": "2026.0922",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -21,14 +21,14 @@
         "Luck Of Lucien": "Luck of Lucien",
         "Rhythm (Devoted To The Art Of Moving Butts)": "Rhythm (Devoted to the Art of Moving Butts"
     },
-	"adéla": {
-		"FANTASIZE": "Fantasize",
-		"HITACHI": "Hitachi",
-		"I'M THE MAN": "I'm The Man",
-		"NICOLE KIDMAN": "Nicole Kidman",
-		"STARVING ARTIST": "Starving Artist",
-		"THERAPY": "Therapy"
-	},
+    "adéla": {
+        "FANTASIZE": "Fantasize",
+        "HITACHI": "Hitachi",
+        "I'M THE MAN": "I'm The Man",
+        "NICOLE KIDMAN": "Nicole Kidman",
+        "STARVING ARTIST": "Starving Artist",
+        "THERAPY": "Therapy"
+    },
     "afi": {
         "Decemberunderground": "DECEMBERUNDERGROUND",
         "Silver Bleeds The Black Sun...": "Silver Bleeds the Black Sun..."
@@ -79,14 +79,14 @@
         "Think About An End": "Think About an End",
         "We've Come For You All": "We've Come for You All"
     },
-	"ariana grande": {
-		"Kiss Me": "kiss me",
-		"Like I Do": "like i do",
-		"NeVeR gEt OvEr Me": "never get over me",
-		"Nowhere, Nobody": "nowhere, nobody",
-		"Petal": "petal",
-		"Stay": "stay"
-	},
+    "ariana grande": {
+        "Kiss Me": "kiss me",
+        "Like I Do": "like i do",
+        "NeVeR gEt OvEr Me": "never get over me",
+        "Nowhere, Nobody": "nowhere, nobody",
+        "Petal": "petal",
+        "Stay": "stay"
+    },
     "artms": {
         "<BORN STUNNER>": "<Born Stunner>"
     },
@@ -156,7 +156,7 @@
     },
     "beyoncé": {
         "Beyoncé": "BEYONCÉ",
-		"B'Day (20th Anniversary Deluxe Edition)": "B'DAY (20th ANNIVERSARY DELUXE EDITION)"
+        "B'Day (20th Anniversary Deluxe Edition)": "B'DAY (20th ANNIVERSARY DELUXE EDITION)"
     },
     "billie eilish": {
         "Hit Me Hard and Soft": "HIT ME HARD AND SOFT",
@@ -299,7 +299,7 @@
         "Art Of Heartbreak": "Art of Heartbreak",
         "Fall In Philadelphia": "Fall in Philadelphia",
         "I Can't Go For That (No Can Do)": "I Can't Go for That (No Can Do)",
-        "I'm Just A Kid (Don't Make Me Feel Like A Man)" : "I'm Just a Kid (Don't Make Me Feel Like a Man)",
+        "I'm Just A Kid (Don't Make Me Feel Like A Man)": "I'm Just a Kid (Don't Make Me Feel Like a Man)",
         "Method Of Modern Love": "Method of Modern Love",
         "Out Of Touch - Single Version": "Out of Touch - Single Version",
         "Wait For Me": "Wait for Me"
@@ -352,9 +352,9 @@
         "All": "ALL",
         "All-O-Gistics": "ALL-O-Gistics"
     },
-	"devon hendryx \"the rockwood escape plan\"": {
-		"JoeChillWorld": "JOECHILLWORLD"
-	},
+    "devon hendryx \"the rockwood escape plan\"": {
+        "JoeChillWorld": "JOECHILLWORLD"
+    },
     "don toliver": {
         "Octane": "OCTANE"
     },
@@ -574,7 +574,7 @@
         "I Come In Peace": "I Come in Peace",
         "Mess With The Bull": "Mess With the Bull"
     },
-    "harry styles" : {
+    "harry styles": {
         "Are you listening yet?": "Are You Listening Yet?",
         "POP": "Pop",
         "carla's song": "Carla's Song"
@@ -626,9 +626,9 @@
         "Rotten sun": "Rotten Sun",
         "Save up all your tears": "Save Up All Your Tears"
     },
-	"iron butterfly": {
-		"Flowers And Beads": "Flowers and Beads"
-	},
+    "iron butterfly": {
+        "Flowers And Beads": "Flowers and Beads"
+    },
     "ison": {
         "A Golden Force": "A GOLDEN FORCE",
         "Andromeda Skyline": "ANDROMEDA SKYLINE",
@@ -666,6 +666,19 @@
     "jae stephens": {
         "Total Sellout": "TOTAL SELLOUT"
     },
+    "jane remover": {
+        "dust bowl": "Dust bowl [ethel cain cover]",
+        "I've Cried 4 U": "I've Cried 4 U (The Unlovables cover)",
+        "INDIE ROCK": "Indie rock",
+        "It's a Vicious Cycle - Single": "it's a vicious cycle - Single",
+        "it’s a vicious cycle": "it's a vicious cycle",
+        "Kill Your Producer": "Kill your producer",
+        "Like A Kiss (Demo)": "like a kiss (demo)",
+        "Like A Kiss demo v4": "like a kiss (demo)",
+        "Like A Kiss": "like a kiss",
+        "Smile Demon": "Smile demon",
+        "This Is Love": "This is love"
+    },
     "jay-z": {
         "Dirt off Your Shoulder": "Dirt Off Your Shoulder"
     },
@@ -678,7 +691,7 @@
         "we all faulter (clean mix)": "We All Faulter (Clean Mix)"
     },
     "jpegmafia": {
-		"communist slow jams": "Communist Slow Jams",
+        "communist slow jams": "Communist Slow Jams",
         "Are you happy?": "ARE YOU HAPPY?",
         "I SCREAM THIS IN THE MIRROR BEFORE I INTERACT WITH ANYONE": "i scream this in the mirror before i interact with anyone"
     },
@@ -787,11 +800,11 @@
         "Only Wonders Now.": "only wonders now.",
         "World Full Of Strings": "world full of strings"
     },
-	"kuru": {
-		"Backstage Hologram": "Backstage hologram",
-		"i saw it coming": "I saw it coming",
-		"stay true forever": "Stay true forever"
-	},
+    "kuru": {
+        "Backstage Hologram": "Backstage hologram",
+        "i saw it coming": "I saw it coming",
+        "stay true forever": "Stay true forever"
+    },
     "lady gaga": {
         "A‐Yo": "A‐YO",
         "ArtPop: Unreleased": "ARTPOP: Unreleased",
@@ -866,14 +879,14 @@
         "Telescopio cósmico": "Telescopio Cósmico"
     },
     "lucy bedroque": {
-		"C": "c",
-		"cara mia": "Cara Mia",
-		"fenty face": "Fenty Face",
-		"finish him": "Finish Him",
-		"g6 anthem": "G6 Anthem",
-		"ultraviolet": "Ultraviolet",
-		"unmusique": "Unmusique",
-		"yes, you may": "Yes, You May"
+        "C": "c",
+        "cara mia": "Cara Mia",
+        "fenty face": "Fenty Face",
+        "finish him": "Finish Him",
+        "g6 anthem": "G6 Anthem",
+        "ultraviolet": "Ultraviolet",
+        "unmusique": "Unmusique",
+        "yes, you may": "Yes, You May"
     },
     "m1v": {
         "revolution revolution": "revolution Revolution"
@@ -997,17 +1010,17 @@
     },
     "nettspend": {
         "BAD ASS F*CKING KID (SESSIONS)": "BAD ASS F*CKING KID (Sessions)",
-		"Early Life Crisis": "early life crisis",
+        "Early Life Crisis": "early life crisis",
         "We Not Like You": "We not like you"
     },
     "ninajirachi": {
         "Girl EDM": "girl EDM",
         "Hand On My Heart": "Hand on my Heart",
-		"WANNACRY": "WannaCry"
+        "WANNACRY": "WannaCry"
     },
-	"ninajirachi & porter robinson": {
-		"wannacry": "WannaCry"
-	},
+    "ninajirachi & porter robinson": {
+        "wannacry": "WannaCry"
+    },
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
         "about a girl - live in los angeles, great western forum - december 30, 1993": "About A Girl - Live in Los Angeles, Great Western Forum - December 30, 1993",
@@ -1243,6 +1256,9 @@
     "robyn": {
         "Don't Stop The Music": "Don't Stop the Music"
     },
+    "roc marciano": {
+        "Bruh man": "Bruh Man"
+    },
     "roro": {
         "hot hits": "Hot Hits"
     },
@@ -1275,14 +1291,14 @@
     },
     "slayr": {
         "Avant Nova": "AVANT NOVA",
-		"Raise My Voice": "raise my voice",
-		"I Got Taste": "i got taste",
-		"Nova": "nova",
-		"Keep Me Going (BIRDBRAIN)": "keep me going (BIRDBRAIN)",
-		"Keep Me Going (Birdbrain)": "keep me going (BIRDBRAIN)"
+        "Raise My Voice": "raise my voice",
+        "I Got Taste": "i got taste",
+        "Nova": "nova",
+        "Keep Me Going (BIRDBRAIN)": "keep me going (BIRDBRAIN)",
+        "Keep Me Going (Birdbrain)": "keep me going (BIRDBRAIN)"
     },
     "slayyyter": {
-		"BRAND NEW CHANEL$": "brand new chanel$",
+        "BRAND NEW CHANEL$": "brand new chanel$",
         "bRokE BitCH fRee$TyLE - sINgLe": "BROKE BITCH FREE$TYLE - Single"
     },
     "slipknot": {
@@ -1661,9 +1677,9 @@
         "Crescent Rise": "Crescent rise",
         "In the Meantime": "In the meantime"
     },
-	"triples": {
-		"DIMENSION": "Dimension"
-	},
+    "triples": {
+        "DIMENSION": "Dimension"
+    },
     "twenty one pilots": {
         "drag pAth": "Drag Path"
     },
@@ -1730,7 +1746,6 @@
     "wilco": {
         "A Ghost is Born": "A Ghost Is Born",
         "summerteeth": "Summerteeth"
-
     },
     "will haven": {
         "asking": "Asking",
